@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "redddy.com"
+group = "org.example"
 version = "1.0-SNAPSHOT"
 
 repositories {
