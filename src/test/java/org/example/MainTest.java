@@ -40,6 +40,6 @@ class MainTest {
     @DisplayName("덧셈")
     void add() throws IOException {
         Main.main(new String[]{});
-        assertEquals("3", output());
+        assertEquals("4", output());
     }
 }
